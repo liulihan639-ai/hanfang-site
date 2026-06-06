@@ -1,7 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
   "buildCommand": "node scripts/generate-translations.js && vite build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "framework": "vite"
 }
