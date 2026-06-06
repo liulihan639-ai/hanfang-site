@@ -1,0 +1,1 @@
+import CMS from "decap-cms-app";
