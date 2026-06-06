@@ -149,7 +149,7 @@ export default function Admin() {
       for (const key of sections) {
         const { fileEn, fileZh } = sectionMap[key];
         for (const [langCode, file, dataObj] of [[fileEn, "en", enData], [fileZh, "zh", zhData]]) {
-          const r = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${file}?ref=${GITHUB_BRANCH}`, {
+          const r = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${langCode}?ref=${GITHUB_BRANCH}`, {
             headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.v3+json" },
           });
           if (r.ok) {
@@ -327,3 +327,7 @@ export default function Admin() {
     </div>
   );
 }
+
+
+
+
