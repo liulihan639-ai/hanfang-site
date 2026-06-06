@@ -206,7 +206,7 @@ export default function Admin() {
 
   const currentSection = sectionMap[activeSection];
   const hasContent = enContent[activeSection] && zhContent[activeSection];
-  const STUDIO_URL = import.meta.env.VITE_SANITY_STUDIO_URL || "http://localhost:3333";
+  const STUDIO_URL = import.meta.env.VITE_SANITY_STUDIO_URL || "https://hanfang-cms.sanity.studio";
 
   return (
     <div className="min-h-screen bg-surface-900 text-white">
@@ -292,3 +292,4 @@ export default function Admin() {
     </div>
   );
 }
+
