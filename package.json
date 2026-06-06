@@ -14,10 +14,8 @@
         "vite": "^5.4.2"
     },
     "dependencies": {
-        "decap-cms-app": "^3.13.0",
+        "@rollup/rollup-win32-x64-msvc": "^4.61.1",
         "framer-motion": "^12.40.0",
-        "playwright": "^1.60.0",
-        "playwright-core": "^1.60.0",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "react-router-dom": "^6.26.2"
