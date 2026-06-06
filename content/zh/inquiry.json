@@ -1,0 +1,32 @@
+{
+  "title": "与汉方合作",
+  "subtitle": "我们欢迎全球分销商、品牌代理和社交媒体卖家在储能产品领域开展合作。",
+  "partnerTitle": "合作伙伴权益",
+  "benefits": [
+    "OEM / ODM 定制，使用您的品牌",
+    "完整认证和出口包装支持",
+    "渠道优先的产品规划和市场调研",
+    "专业的售后和技术文档支持",
+    "社交媒体推广的联合营销素材"
+  ],
+  "quickContact": "快捷联系",
+  "formTitle": "发送询盘",
+  "formSubtitle": "填写以下表单，我们将在24小时内与您联系。",
+  "companyName": "公司名称 *",
+  "contactName": "联系人 *",
+  "email": "邮箱地址 *",
+  "country": "国家 / 地区",
+  "interestedProduct": "感兴趣的产品",
+  "options": {
+    "portable": "便携式电源站",
+    "home": "家庭储能系统",
+    "commercial": "商业备用电源",
+    "oem": "OEM / ODM 服务",
+    "other": "其他"
+  },
+  "message": "请描述您的需求...",
+  "submit": "提交询盘",
+  "demoNote": "此为演示表单，后续可对接邮件、CRM 或 WhatsApp。",
+  "emailContact": "partner@hanfang-energy.com",
+  "phone": "+86 400-888-9999"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "技术规格",
+  "subtitle": "为B2B买家和社交电商合作伙伴提供高信心的技术基准。",
+  "sections": [
+    {
+      "title": "电池与性能",
+      "rows": [
+        {
+          "label": "电池化学",
+          "value": "磷酸铁锂 (LiFePO₄)"
+        },
+        {
+          "label": "循环寿命",
+          "value": "3,000+ 次（80% 放电深度）"
+        },
+        {
+          "label": "能量密度",
+          "value": "150 – 180 Wh/kg"
+        },
+        {
+          "label": "BMS保护",
+          "value": "过压、过流、短路、温度保护"
+        }
+      ]
+    },
+    {
+      "title": "充电与连接",
+      "rows": [
+        {
+          "label": "交流充电",
+          "value": "100–240V, 50/60Hz, 最高 1800W"
+        },
+        {
+          "label": "太阳能输入",
+          "value": "MPPT, 最高 500W（因型号而异）"
+        },
+        {
+          "label": "车载充电",
+          "value": "12V/24V DC, 8A 最大"
+        },
+        {
+          "label": "输出接口",
+          "value": "AC, USB-C PD, USB-A, DC 12V, Anderson"
+        }
+      ]
+    },
+    {
+      "title": "全球与渠道支持",
+      "rows": [
+        {
+          "label": "认证资质",
+          "value": "CE, FCC, RoHS, UN38.3（因地区而异）"
+        },
+        {
+          "label": "OEM / ODM",
+          "value": "全面定制：品牌、包装、固件"
+        },
+        {
+          "label": "交货周期",
+          "value": "标准订单 15–30 天"
+        },
+        {
+          "label": "质保服务",
+          "value": "标准 24 个月，可延长"
+        }
+      ]
+    }
+  ]
+}

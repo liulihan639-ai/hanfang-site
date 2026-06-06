@@ -1,0 +1,32 @@
+{
+  "title": "Work With Hanfang",
+  "subtitle": "We welcome global distributors, brand agents, and social media sellers to cooperate on storage products.",
+  "partnerTitle": "Partner Benefits",
+  "benefits": [
+    "OEM / ODM customization with your branding",
+    "Full certification and export packaging support",
+    "Channel-first product planning and market research",
+    "Professional after-sales and technical documentation",
+    "Co-marketing assets for social media promotion"
+  ],
+  "quickContact": "Quick Contact",
+  "formTitle": "Send Inquiry",
+  "formSubtitle": "Fill out the form below and our team will get back to you within 24 hours.",
+  "companyName": "Company name *",
+  "contactName": "Contact name *",
+  "email": "Email address *",
+  "country": "Country / Region",
+  "interestedProduct": "Interested product",
+  "options": {
+    "portable": "Portable Power Station",
+    "home": "Home ESS",
+    "commercial": "Commercial Backup",
+    "oem": "OEM / ODM Services",
+    "other": "Other"
+  },
+  "message": "Tell us about your requirements...",
+  "submit": "Submit Inquiry",
+  "demoNote": "This is a demo form. Connect it to email, CRM, or WhatsApp later.",
+  "emailContact": "partner@hanfang-energy.com",
+  "phone": "+86 400-888-9999"
+}

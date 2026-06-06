@@ -1,0 +1,69 @@
+{
+  "title": "Technical Specifications",
+  "subtitle": "A high-confidence technical baseline for B2B buyers and social commerce partners.",
+  "sections": [
+    {
+      "title": "Battery & Performance",
+      "rows": [
+        {
+          "label": "Battery Chemistry",
+          "value": "Lithium Iron Phosphate (LiFePO₄)"
+        },
+        {
+          "label": "Cycle Life",
+          "value": "3,000+ cycles typical (80% DoD)"
+        },
+        {
+          "label": "Energy Density",
+          "value": "150 – 180 Wh/kg"
+        },
+        {
+          "label": "BMS Protection",
+          "value": "Over-voltage, over-current, short-circuit, temperature"
+        }
+      ]
+    },
+    {
+      "title": "Charging & Connectivity",
+      "rows": [
+        {
+          "label": "AC Charging",
+          "value": "100–240V, 50/60Hz, up to 1800W"
+        },
+        {
+          "label": "Solar Input",
+          "value": "MPPT, up to 500W (varies by model)"
+        },
+        {
+          "label": "Car Charging",
+          "value": "12V/24V DC, 8A max"
+        },
+        {
+          "label": "Output Ports",
+          "value": "AC, USB-C PD, USB-A, DC 12V, Anderson"
+        }
+      ]
+    },
+    {
+      "title": "Global & Channel Support",
+      "rows": [
+        {
+          "label": "Certifications",
+          "value": "CE, FCC, RoHS, UN38.3 (varies by region)"
+        },
+        {
+          "label": "OEM / ODM",
+          "value": "Full customization: branding, packaging, firmware"
+        },
+        {
+          "label": "Lead Time",
+          "value": "15–30 days for standard orders"
+        },
+        {
+          "label": "Warranty",
+          "value": "24 months standard, extendable"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Hanfang Product Family",
+  "subtitle": "A clear product matrix helps foreign trade partners quickly match residential, mobile, and business scenarios.",
+  "requestQuote": "Request Quotation →",
+  "inquireNow": "Inquire Now",
+  "items": [
+    {
+      "name": "Hanfang Portable Power Station",
+      "tag": "Mobile Power",
+      "subtitle": "Power on the Move",
+      "specs": [
+        "500W – 2000W Output",
+        "LiFePO₄ Cells",
+        "Solar Ready"
+      ],
+      "points": [
+        "Lightweight outdoor design",
+        "Pure sine wave output",
+        "Multiple DC/AC ports",
+        "BMS advanced protection"
+      ]
+    },
+    {
+      "name": "Hanfang Home ESS",
+      "tag": "Residential Storage",
+      "subtitle": "Energy Independence",
+      "specs": [
+        "5kWh – 20kWh Capacity",
+        "Stackable Modules",
+        "Smart App"
+      ],
+      "points": [
+        "Peak shaving and backup",
+        "Modular capacity expansion",
+        "Smart app management",
+        "Grid-tie ready"
+      ]
+    },
+    {
+      "name": "Hanfang Commercial Backup",
+      "tag": "Business Continuity",
+      "subtitle": "Enterprise Grade",
+      "specs": [
+        "30kW – 200kW Systems",
+        "UPS-level Switch",
+        "Remote O&M"
+      ],
+      "points": [
+        "Scalable battery cabinets",
+        "UPS-level switchover",
+        "Remote monitoring",
+        "Multi-unit parallel"
+      ]
+    }
+  ]
+}
