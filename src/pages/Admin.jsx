@@ -154,7 +154,7 @@ export default function Admin() {
           });
           if (r.ok) {
             const json = await r.json();
-            const decoded = atob(json.content.replace(/\n/g, ""));
+            const decoded = decodeURIComponent(escape(atob(json.content.replace(/\n/g, ""))));
             if (langCode === fileEn) {
               enData[key] = JSON.parse(decoded);
               shaData[fileEn] = json.sha;
@@ -327,6 +327,7 @@ export default function Admin() {
     </div>
   );
 }
+
 
 
 
