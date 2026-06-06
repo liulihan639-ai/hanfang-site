@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+﻿import { useState, useEffect, useRef } from "react";
 import { useLanguage } from "../context/LanguageContext.jsx";
 
 function useReveal() {
@@ -27,6 +27,10 @@ function Reveal({ children, delay = "0", className = "" }) {
 
 export default function Inquiry() {
   const { t } = useLanguage();
+  const [formData, setFormData] = useState({ company: "", name: "", email: "", country: "", product: "", message: "" });
+  const [submitting, setSubmitting] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+  const [formError, setFormError] = useState("");
   const benefits = t("inquiry.benefits");
   return (
     <section id="inquiry" className="relative border-t border-white/5">
@@ -107,3 +111,5 @@ export default function Inquiry() {
     </section>
   );
 }
+
+

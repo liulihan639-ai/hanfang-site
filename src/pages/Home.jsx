@@ -1,4 +1,4 @@
-import Navbar from "../components/Navbar.jsx";
+﻿import Navbar from "../components/Navbar.jsx";
 import Hero from "../components/Hero.jsx";
 import Highlights from "../components/Highlights.jsx";
 import ProductFamily from "../components/ProductFamily.jsx";
@@ -6,6 +6,7 @@ import UseCases from "../components/UseCases.jsx";
 import Specs from "../components/Specs.jsx";
 import Inquiry from "../components/Inquiry.jsx";
 import Footer from "../components/Footer.jsx";
+import WhatsAppButton from "../components/WhatsAppButton.jsx";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Specs />
       <Inquiry />
       <Footer />
-    </main>
+    <WhatsAppButton />
+  </main>
   );
 }
